@@ -1,0 +1,23 @@
+.jumbotron {
+	background: #4fbc51;
+	color: white;
+	min-height: 250px;
+}
+
+label {
+    padding: 3px;
+    font-size: 18px;
+}
+
+#contact-form {
+    min-height: 500px;
+}
+
+input[type=text], input[type=tel], input[type=email] {
+    height: 55px;
+}
+
+input[type=submit] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
